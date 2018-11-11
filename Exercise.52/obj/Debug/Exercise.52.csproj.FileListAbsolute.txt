@@ -1,0 +1,7 @@
+C:\Users\crazy\Desktop\C# projects\Exercise.52\Exercise.52\bin\Debug\Exercise.52.exe.config
+C:\Users\crazy\Desktop\C# projects\Exercise.52\Exercise.52\bin\Debug\Exercise.52.exe
+C:\Users\crazy\Desktop\C# projects\Exercise.52\Exercise.52\bin\Debug\Exercise.52.pdb
+C:\Users\crazy\Desktop\C# projects\Exercise.52\Exercise.52\obj\Debug\Exercise.52.csprojAssemblyReference.cache
+C:\Users\crazy\Desktop\C# projects\Exercise.52\Exercise.52\obj\Debug\Exercise.52.csproj.CoreCompileInputs.cache
+C:\Users\crazy\Desktop\C# projects\Exercise.52\Exercise.52\obj\Debug\Exercise.52.exe
+C:\Users\crazy\Desktop\C# projects\Exercise.52\Exercise.52\obj\Debug\Exercise.52.pdb
